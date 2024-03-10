@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="imagens">
+    <file>imagens/banco-de-dados-em-nuvem.png</file>
+    <file>imagens/inicio.png</file>
+    <file>imagens/marketing-de-busca.png</file>
+    <file>imagens/reuniao-do-conselho.png</file>
+  </qresource>
+</RCC>
